@@ -17,4 +17,4 @@ $password = "12345";
         echo $query;
 
         //agregarlo a la base de datos
-     //   mysqli_query($db, $query);
+        //mysqli_query($db, $query);
